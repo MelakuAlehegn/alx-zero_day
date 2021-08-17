@@ -1,1 +1,1 @@
-**EMPHESIZE** whatever
+**EMPHASIZE** whatever
